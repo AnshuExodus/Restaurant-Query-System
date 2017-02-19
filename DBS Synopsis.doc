@@ -1,0 +1,100 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq0\fcharset128 ;}{\f4\froman\fprq0\fcharset0 Times New Roman;}{\f5\fnil\fprq2\fcharset0 Microsoft YaHei;}{\f6\fnil\fprq2\fcharset0 Arial;}{\f7\fswiss\fprq0\fcharset128 Arial;}}
+{\colortbl;\red0\green0\blue0;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057 Default;}
+{\s15\sbasedon0\snext16\sb240\sa120\keepn\hich\af5\dbch\af6\afs28\loch\f2\fs28 Heading;}
+{\s16\sbasedon0\snext16\sb0\sa120 Text body;}
+{\s17\sbasedon16\snext17\sb0\sa120\dbch\af7 List;}
+{\s18\sbasedon0\snext18\sb120\sa120\noline\i\dbch\af7\afs24\ai\fs24 Caption;}
+{\s19\sbasedon0\snext19\noline\dbch\af7 Index;}
+}{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr0\mo0\dy0\hr0\min0}{\printim\yr0\mo0\dy0\hr0\min0}{\comment OpenOffice}{\vern4110}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
+
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn11905\pghsxn16837\marglsxn1140\margrsxn1100\margtsxn1120\margbsxn420\pgdscnxt0 Default;}}
+\formshade{\*\pgdscno0}\paperh16837\paperw11905\margl1140\margr1100\margt1120\margb420\sectd\sbknone\sectunlocked1\pgndec\pgwsxn11905\pghsxn16837\marglsxn1140\margrsxn1100\margtsxn1120\margbsxn420\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pgndec\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-333\slmult0\li3132\ri2478\lin3132\rin2478\fi0{\expnd0\expndtw-4\b\hich\af4\dbch\af4\afs26\ab\rtlch \ltrch\loch\fs26\loch\f4
+{\field{\*\fldinst SHAPE }{\fldrslt{\shp{\*\shpinst\shpleft0\shptop0\shpright11903\shpbottom16837\shpwr3\shpbxignore\shpbyignore{\sp{\sn shapeType}{\sv 75}}{\sp{\sn posrelh}{\sv 3}}{\sp{\sn lineJoinStyle}{\sv 2}}{\sp{\sn lineColor}{\sv 8421504}}{\sp{\sn lineBackColor}{\sv 8355711}}{\sp{\sn fshadowObscured}{\sv 1}}{\sp{\sn fNoFillHitTest}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn anchorText}{\sv 1}}{\sp{\sn wzDescription}{\sv }}{\sp{\sn wzName}{\sv }}}}}}Database Systems Lab (ICT 2212) }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-320\slmult0\li3132\ri2498\lin3132\rin2498\fi117{\expnd-1\expndtw-5\b\hich\af4\dbch\af4\afs26\ab\rtlch \ltrch\loch\fs26\loch\f4
+Semester & Branch: IV Sem IT - }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-320\slmult0\li3132\ri3171\lin3132\rin3171\fi572{\expnd-1\expndtw-5\b\hich\af4\dbch\af4\afs26\ab\rtlch \ltrch\loch\fs26\loch\f4
+Mini Project Synopsis }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-195\slmult0\li3132\ri3171\lin3132\rin3171\fi572{\afs20\rtlch \ltrch\loch\fs20
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li3132\ri3171\lin3132\rin3171\fi572{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li3132\ri3171\lin3132\rin3171\fi572{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li3132\ri3171\lin3132\rin3171\fi572{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li3132\ri3171\lin3132\rin3171\fi572{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri880\lin0\rin880\fi0{\expnd0\expndtw-2\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+Since generations, we've been relying on our friends and acquaintances to find us the ideal }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri678\lin0\rin678\fi0{\expnd0\expndtw-2\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+restaurant, based on our needs, liking and budget. Going out and exploring on our own is too }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri119\lin0\rin119\fi0{\expnd0\expndtw-2\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+tedious a job. This is what our project is going to deal with. Sitting at home, office or a car, one can find the perfect place to have your meal at. The project is going to deal with the cuisine that the user is interested in, keeping in mind the budget and the location, according to his/her convenience. And, assuming an existing database, the restaurants are going to have a rating based on what the previous users experienced. The cuisine, sometimes, is not enough. The user would like to know more about the variety of food available at the restaurant. Hence, we also support a menu per restaurant to give }{\expnd0\expndtw-3\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+the user all he/she wants to know about the place beforehand. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-94\slmult0\li0\ri119\lin0\rin119\fi0{\afs9\rtlch \ltrch\loch\fs9
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li0\ri119\lin0\rin119\fi0{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-265\slmult0\li0\ri5667\lin0\rin5667\fi0{\expnd0\expndtw-4\b\hich\af4\dbch\af4\ab\rtlch \ltrch\loch\loch\f4
+Importance/Usage of the project. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri5667\lin0\rin5667\fi0{\afs30\rtlch \ltrch\loch\fs30
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri308\lin0\rin308\fi0{\expnd0\expndtw-2\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+This project simplifies the process of finding any desired restaurant as per the users convenience. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri83\lin0\rin83\fi0{\expnd0\expndtw-2\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+Seated anywhere, one can gain access to a wide database containing location, phone number, menu, }{\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+ratings and price for two. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-154\slmult0\li0\ri83\lin0\rin83\fi0{\afs15\rtlch \ltrch\loch\fs15
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li0\ri83\lin0\rin83\fi0{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li0\ri83\lin0\rin83\fi0{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-265\slmult0\li0\ri5131\lin0\rin5131\fi0{\expnd0\expndtw-3\b\hich\af4\dbch\af4\ab\rtlch \ltrch\loch\loch\f4
+Features/Functionalities of the project. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri5131\lin0\rin5131\fi0{\afs30\rtlch \ltrch\loch\fs30
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri5652\lin0\rin5652\fi0{\expnd0\expndtw-3\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+Discover great restaurants to eat at. Easy to use social restaurant finder. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri4213\lin0\rin4213\fi0{\expnd-1\expndtw-5\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+Let's you explore all the dining options in your city. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri2488\lin0\rin2488\fi0{\expnd0\expndtw-3\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+To enquire more about the restaurant, phone numbers are also provided. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri1513\lin0\rin1513\fi0{\expnd0\expndtw-2\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+Browse through restaurant menus and user ratings to decide where you want to eat. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-154\slmult0\li0\ri1513\lin0\rin1513\fi0{\afs15\rtlch \ltrch\loch\fs15
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li0\ri1513\lin0\rin1513\fi0{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li0\ri1513\lin0\rin1513\fi0{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-265\slmult0\li0\ri5942\lin0\rin5942\fi0{\expnd0\expndtw-4\b\hich\af4\dbch\af4\ab\rtlch \ltrch\loch\loch\f4
+Front end and Back end used. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri5942\lin0\rin5942\fi0{\afs30\rtlch \ltrch\loch\fs30
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri119\lin0\rin119\fi0{\expnd0\expndtw-2\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+For the user interface, we will be using Visual Studio (VC#) and for the Back end, we will be using MySQL}{\expnd-1\expndtw-5\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+ Workbench (SQL). }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-184\slmult0\li0\ri119\lin0\rin119\fi0{\afs18\rtlch \ltrch\loch\fs18
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li0\ri119\lin0\rin119\fi0{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li0\ri119\lin0\rin119\fi0{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-240\slmult0\li0\ri119\lin0\rin119\fi0{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri30\lin0\rin30\fi7851{\expnd-1\expndtw-6\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+Anshuman Mishra }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri30\lin0\rin30\fi8560{\expnd-2\expndtw-10\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+140911426 }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri30\lin0\rin30\fi8560{\afs30\rtlch \ltrch\loch\fs30
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li8560\ri30\lin8560\rin30\fi64{\expnd-1\expndtw-8\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+Isha Sinha }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang2057\sl-300\slmult0\li0\ri30\lin0\rin30\fi8560{\expnd-2\expndtw-10\hich\af4\dbch\af4\rtlch \ltrch\loch\loch\f4
+140911334 }
+\par }

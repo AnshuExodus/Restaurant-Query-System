@@ -1,0 +1,19 @@
+D:\study\IT sem 4\dbs\example\example\bin\Debug\example.exe.config
+D:\study\IT sem 4\dbs\example\example\obj\Debug\example.Properties.Resources.resources
+D:\study\IT sem 4\dbs\example\example\obj\Debug\example.csproj.GenerateResource.Cache
+D:\study\IT sem 4\dbs\example\example\obj\Debug\example.Form1.resources
+D:\study\IT sem 4\dbs\example\example\bin\Debug\example.exe
+D:\study\IT sem 4\dbs\example\example\bin\Debug\example.pdb
+D:\study\IT sem 4\dbs\example\example\bin\Debug\Oracle.DataAccess.dll
+D:\study\IT sem 4\dbs\example\example\obj\Debug\example.exe
+D:\study\IT sem 4\dbs\example\example\obj\Debug\example.pdb
+D:\study\IT sem 4\dbs\example\example\obj\Debug\example.csprojResolveAssemblyReference.cache
+H:\example\example\bin\Debug\example.exe.config
+H:\example\example\obj\Debug\example.exe
+H:\example\example\obj\Debug\example.pdb
+F:\example\example\bin\Debug\example.exe.config
+F:\example\example\obj\Debug\example.exe
+F:\example\example\obj\Debug\example.pdb
+C:\Users\Anshuman Mishra\Desktop\Lab Projects\DBS Project\Cinnamon VC#\example\example\bin\Debug\example.exe.config
+C:\Users\Anshuman Mishra\Desktop\Lab Projects\DBS Project\Cinnamon VC#\example\example\obj\Debug\example.exe
+C:\Users\Anshuman Mishra\Desktop\Lab Projects\DBS Project\Cinnamon VC#\example\example\obj\Debug\example.pdb

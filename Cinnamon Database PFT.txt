@@ -1,0 +1,90 @@
+
+;;;;;;;;;
+FUNCTION
+;;;;;;;;;
+
+
+create or replace function pass_ver(ID in varchar)
+
+return varchar
+
+as
+
+pass varchar(20);
+
+begin
+
+	select password into pass
+	from users u
+	where u.user_id=ID;
+	return pass;
+
+end;
+/	
+
+
+create or replace function avera(X in number)
+
+return number
+
+as
+
+ave number(5);
+
+begin
+
+	select avg(rating) into ave
+	from review;
+	return ave;
+
+end;
+/
+
+;;;;;;;;
+TRIGGER
+;;;;;;;;
+
+create or replace trigger change_pass
+
+before
+
+update or insert or delete on users
+
+for each row
+
+when(NEW.password != NULL)
+
+begin
+
+dbms_output.put_line(:OLD.password);
+
+end;
+/
+
+create or replace trigger correct
+after insert on users
+for each row
+
+BEGIN
+
+	if inserting and :new.user_name = null
+	then update users set user_name = 'N';
+
+end if;
+
+end;
+/
+
+
+;;;;;;;;;;;;;;;
+NESTED SUBQUERY
+;;;;;;;;;;;;;;;
+
+> DISPLAY THE RESTAURANTS WITH A RATING ABOVE AVERAGE.
+
+select Rest_ID from Review where Rating > all(select avg(Rating) from Review);
+
+> SELECT RESTAURANTS WITH A BUDGET.
+
+select Rest_Name from Restaurant where Price_For_Two IN (select Price_For_Two from Restaurant where Price_For_Two BETWEEN 400 AND 600);
+

@@ -1,0 +1,71 @@
+CREATE TABLE RESTAURANT (Rest_ID varchar(10) PRIMARY KEY,
+						 Rest_Name varchar(20),						
+						 Michelin_Stars int,
+						 Price_For_Two int
+						 );
+
+
+CREATE TABLE TIMINGS (Rest_ID varchar(20),
+				      FOREIGN KEY (Rest_ID) REFERENCES Restaurant (Rest_ID),
+				      Open_On varchar(20),
+				      Breakfast char(1),
+				      Lunch char(1),
+				      Snacks_And_Dinner char(1)
+				      );
+
+
+CREATE TABLE LOCATION (Rest_ID varchar(20),
+				       FOREIGN KEY (Rest_ID) REFERENCES Restaurant (Rest_ID),				       	       
+				       State varchar(20),
+				       Area varchar(20),
+				       Street_No varchar(10),
+				       Shop_No int PRIMARY KEY,
+				       Pincode int,
+				       Ph_No int
+				       );
+
+				       	
+CREATE TABLE MENU (Rest_ID varchar(20),
+				   FOREIGN KEY (Rest_ID) REFERENCES Restaurant (Rest_ID),
+				   Dish_No varchar(10) PRIMARY KEY,
+				   Dish_Name varchar(20),				   
+				   Price_Per_Dish int,
+				   Serving_Size varchar(10)
+				   );
+
+
+CREATE TABLE CUISINE (Rest_ID varchar(20),
+				      FOREIGN KEY (Rest_ID) REFERENCES Restaurant (Rest_ID),				      		   
+				      Cuisine_Name varchar(15)				      
+				      );
+
+
+CREATE TABLE REVIEW (Reviewer_ID int,
+                     Email_ID varchar(50),
+					 Rest_ID varchar(20),
+				     FOREIGN KEY (Rest_ID) REFERENCES Restaurant (Rest_ID),				     		     
+				     Rating int,
+				     Std_Response varchar(20),
+				     Response varchar(20),
+				     Loc_Review varchar(20)
+				     );				      				   				  				      
+
+
+CREATE TABLE RANKING (Position int PRIMARY KEY,
+					  Rest_ID varchar(20),
+				      FOREIGN KEY (Rest_ID) REFERENCES Restaurant (Rest_ID)				      		      
+				      );				     
+
+
+CREATE TABLE USERS (User_ID varchar(20) PRIMARY KEY,
+                    User_Name varchar(50),
+				    Password varchar(20),
+				    User_City varchar(20),
+				    Instagram_Handle varchar(20),
+				    Email_ID varchar(20),
+                    User_Mobile varchar(10)
+                   );
+
+
+CREATE TABLE AV (Aver varchar(5)
+				);        
